@@ -1,0 +1,14 @@
+package gitHomeWork;
+
+public class gitHW {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("Wafa");
+		System.out.println("Bouchair");
+		System.out.println("3,  1 brother and 2 beautiful sisters");
+		System.out.println("3,  1 brother and 2 beautiful sistersss");
+	}
+
+}

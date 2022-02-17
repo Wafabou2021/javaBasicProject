@@ -1,0 +1,20 @@
+package com.syntax.reviewclass4;
+
+import java.util.Scanner;
+
+public class Waf {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x = inp.nextInt();
+
+		//write your code below
+
+		     for(int reverse = x - 1 ; reverse >= x ; reverse--) { 
+		          System.out.print(reverse); 
+		    }
+	}}
+		
+		
+		
+
